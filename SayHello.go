@@ -1,11 +1,7 @@
-package main
+package SayHelloWorld
 
 import "fmt"
 
 func SayHelloWorld() {
 	fmt.Println("Hello World!")
-}
-
-func main() {
-	SayHelloWorld()
 }
